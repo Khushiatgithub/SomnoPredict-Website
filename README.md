@@ -5,7 +5,8 @@
 
 ---
 
-![Uploading image.png…]()
+<img width="1816" height="872" alt="Screenshot 2026-08-24 183910" src="https://github.com/user-attachments/assets/5462f58f-ac18-4f1c-86ea-5e7de60622eb" />
+
 
 
 ## Tech Stack
